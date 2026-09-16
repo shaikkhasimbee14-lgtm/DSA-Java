@@ -1,1 +1,0 @@
-<h2>palindrome-linked-list Notes</h2><hr>[ Time taken: 2d 2hrs 23m 21s ]
