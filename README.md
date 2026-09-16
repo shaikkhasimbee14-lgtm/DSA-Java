@@ -7,6 +7,7 @@ My DSA problem-solving repository featuring Java implementations of LeetCode pro
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -16,12 +17,14 @@ My DSA problem-solving repository featuring Java implementations of LeetCode pro
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 ## Array
 |  |
@@ -39,4 +42,8 @@ My DSA problem-solving repository featuring Java implementations of LeetCode pro
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
