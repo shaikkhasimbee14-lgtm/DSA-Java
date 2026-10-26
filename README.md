@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -28,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
