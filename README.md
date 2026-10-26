@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0219-contains-duplicate-ii) |
+| [0946-validate-stack-sequences](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0946-validate-stack-sequences) |
 ## Union-Find
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0020-valid-parentheses) |
+| [0946-validate-stack-sequences](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
