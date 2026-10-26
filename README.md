@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0242-valid-anagram) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
