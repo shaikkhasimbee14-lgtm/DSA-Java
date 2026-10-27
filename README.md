@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0929-unique-email-addresses](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0929-unique-email-addresses) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0929-unique-email-addresses](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0929-unique-email-addresses) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0219-contains-duplicate-ii) |
+| [0929-unique-email-addresses](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Union-Find
