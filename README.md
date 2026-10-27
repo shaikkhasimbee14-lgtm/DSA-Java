@@ -73,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
