@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0242-valid-anagram) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
@@ -100,8 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0202-happy-number) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
