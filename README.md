@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
 |  |
 | ------- |
@@ -82,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0202-happy-number) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
