@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/shaikkhasimbee14-lgtm/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
